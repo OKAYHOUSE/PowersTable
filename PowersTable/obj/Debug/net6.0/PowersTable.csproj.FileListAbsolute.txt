@@ -1,0 +1,15 @@
+/Users/tko/Projects/PowersTable/PowersTable/obj/Debug/net6.0/PowersTable.csproj.AssemblyReference.cache
+/Users/tko/Projects/PowersTable/PowersTable/obj/Debug/net6.0/PowersTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tko/Projects/PowersTable/PowersTable/obj/Debug/net6.0/PowersTable.AssemblyInfoInputs.cache
+/Users/tko/Projects/PowersTable/PowersTable/obj/Debug/net6.0/PowersTable.AssemblyInfo.cs
+/Users/tko/Projects/PowersTable/PowersTable/obj/Debug/net6.0/PowersTable.csproj.CoreCompileInputs.cache
+/Users/tko/Projects/PowersTable/PowersTable/bin/Debug/net6.0/PowersTable
+/Users/tko/Projects/PowersTable/PowersTable/bin/Debug/net6.0/PowersTable.deps.json
+/Users/tko/Projects/PowersTable/PowersTable/bin/Debug/net6.0/PowersTable.runtimeconfig.json
+/Users/tko/Projects/PowersTable/PowersTable/bin/Debug/net6.0/PowersTable.dll
+/Users/tko/Projects/PowersTable/PowersTable/bin/Debug/net6.0/PowersTable.pdb
+/Users/tko/Projects/PowersTable/PowersTable/obj/Debug/net6.0/PowersTable.dll
+/Users/tko/Projects/PowersTable/PowersTable/obj/Debug/net6.0/refint/PowersTable.dll
+/Users/tko/Projects/PowersTable/PowersTable/obj/Debug/net6.0/PowersTable.pdb
+/Users/tko/Projects/PowersTable/PowersTable/obj/Debug/net6.0/PowersTable.genruntimeconfig.cache
+/Users/tko/Projects/PowersTable/PowersTable/obj/Debug/net6.0/ref/PowersTable.dll
